@@ -76,7 +76,7 @@ class array_Problems
 }
 
 
-// Q.2 count the number of elements that strictly greater than value x.
+// Q.3 count the number of elements that strictly greater than value x.
 
 import java.util.*;
 class array_Problems
@@ -118,7 +118,7 @@ class array_Problems
 
 
 
-// Q.3 Check if the given array is sorted or not.
+// Q.4 Check if the given array is sorted or not.
 import java.util.*;
 class array_Problems
 {
@@ -157,7 +157,7 @@ class array_Problems
 }
 
 
-// Q.4 find smallest and largest element of an array .
+// Q.5 find smallest and largest element of an array .
 import java.util.Arrays;
 import java.util.*;
 class array_Problems
@@ -195,7 +195,7 @@ class array_Problems
 
 */
 
-// Q.4 find Kth smallest and Kth largest element of an array .
+// Q.6 find Kth smallest and Kth largest element of an array .
 import java.util.Arrays;
 import java.util.*;
 class array_Problems
